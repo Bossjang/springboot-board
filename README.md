@@ -20,8 +20,7 @@
 ## 기획
 ### 1. 프로젝트 소개
 
-웹 프로그래밍의 기본소양인 게시판을 만들어보며 CRUD에 대해 익히고 spring mvc패턴에 대한 이해와 현업에서 자주 사용하는 spring boot와 jpa에 익숙해지며  
-Oauth2.0를 직접 써보는것에 목표를 둔 프로젝트.
+웹 프로그래밍의 기본소양인 게시판을 만들어보며 CRUD에 대해 익히고 spring mvc패턴에 대한 이해와 현업에서 자주 사용하는 spring boot와 jpa에 익숙해지며 Oauth2.0를 직접 써보는것에 목표를 둔 프로젝트.
 <br><br>
 
 ### 2. 주요기능
@@ -38,7 +37,8 @@ Oauth2.0를 직접 써보는것에 목표를 둔 프로젝트.
 
 #### 개발 환경
 - intellij IDEA Ultimate
-- JAP(spring data JPA)
+- JPA(spring data JPA)
+- View : Vue.js
 
 #### Build Tool
 - Maven
@@ -51,7 +51,7 @@ Oauth2.0를 직접 써보는것에 목표를 둔 프로젝트.
 
 #### api
 - Oauther 2.0(kakao developer)
-<br>
+<br>                    
 
 ### 4. 요구사항 분석
 **로그인** <br>
